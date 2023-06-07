@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #f70505;
+    color: gold;
+    padding: 20px;
+    text-align: center;
+}
+
+.movie {
+    display: inline-block;
+    margin: 20px;
+    text-align: center;
+}
+
+.movie img {
+    width: 200px;
+    height: 300px;
+    object-fit: cover;
+}
+
+.movie h2 {
+    margin-top: 10px;
+}
+
+.movie p {
+    margin-top: 5px;
+}
+
+.btn {
+    background-color: #f70505;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #ce0c0c;
+}
+body{
+    background-color: white;
+}
+h2{
+    color: #f70505;
+}
